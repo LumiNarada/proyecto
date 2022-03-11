@@ -175,15 +175,6 @@ i{
 .input:invalid{
   color: gray;
 }
-.opcion:hover{
-  box-shadow: 0px 0px 10px 3px rgba(0,0,0,0.7);
-  top: -7px;
-  cursor: pointer;
-}
-.opcion:active{
-  background:  #174970;
-  color: #A3D8C2;
-}
 .renglon:hover{
   box-shadow: 0px 0px 10px 3px rgba(0,0,0,0.7);
 }
