@@ -28,6 +28,7 @@ table{
     border: 2px solid rgb(0, 0, 0);
     margin: 0px auto;
 }
+
 th, td{
     width: 33%;
     text-align: center;
@@ -38,6 +39,7 @@ th, td{
     background-color:rgba(0,0,0,0.8);
     color: white;
 }
+
 th{
     background-color: rgba(0,0,0,0.8);
 }
@@ -51,4 +53,21 @@ iframe{
     display: block;
     margin: 0px auto;
     border: 3px solid rgb(238, 17, 227);
+}
+
+@media screen and (max-width: 576px){
+    main img{
+         width: 200px;
+         height: 135px;
+    }
+    main iframe{
+        width: 200px;
+        height: 110px;
+    }
+}
+
+a:link, a:visited {
+    color:rgb(224, 125, 219);
+    cursor: auto;
+    text-decoration: none;
 }
