@@ -12,7 +12,10 @@ body{
     padding: 2px;
     color: white;
 }    
-
+main{
+    display: block;
+    margin: 0px auto;
+}
 
 .fondomain{  
     background-color: rgba(0,0,0,0.7);
@@ -21,6 +24,7 @@ body{
     margin: 2rem;
     color: white;
     text-align: center;
+    width: 700px;
     }
 
 table{
@@ -64,10 +68,4 @@ iframe{
         width: 200px;
         height: 110px;
     }
-}
-
-a:link, a:visited {
-    color:rgb(224, 125, 219);
-    cursor: auto;
-    text-decoration: none;
 }
