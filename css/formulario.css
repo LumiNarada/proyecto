@@ -1,12 +1,12 @@
 
 body{
-  background-image: url("../media/fondo_formulario.jpg");
+  background-image: url("../media/fondo_formulario.png");
   background-size: cover;
   background-repeat:no-repeat;
   background-repeat: no-repeat;
   background-position: center center;
   background-attachment: fixed;
-  background-position: 0px 37px;
+  background-position: 0px 90px;
 }
 main{
   display: flex;

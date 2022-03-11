@@ -36,6 +36,7 @@ header{
     padding: 10px;
     background-color: #222222;
     align-items:flex-start;
+    z-index: 100;
 }
 main{
     font-family: 'El Messiri', sans-serif;
