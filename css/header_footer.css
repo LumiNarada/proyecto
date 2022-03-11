@@ -59,8 +59,9 @@ nav{
     flex-wrap: wrap;
     justify-content: center;
     flex-direction: column;
-    align-content: center;
-    align-items: center;
+    align-content: flex-start;
+    align-items: flex-start;
+    margin-top: 15px;
 }
 #fb{
     width: 30px;
